@@ -1,0 +1,26 @@
+Product_Name,Product_Category,IsActive,Product_Quality, Starting_Price
+Smartphone,Electronics,True,Used and okay,500.00
+Laptop,Electronics,True,New,2000.00
+Smartwatch,Electronics,True,Used and good,400.00
+Headphones,Electronics,True,Used and very good,300.00
+Camera,Electronics,True,New,3000.00
+Car,Vehicle,True,Used and very good,15000.00
+Motorcycle,Vehicle,False,Used and very good,10000.00
+Bicycle,Vehicle,True,New,1000.00
+Scooter,Vehicle,True,New,5000.00
+Truck,Vehicle,False,Used and good,20000.00
+Sofa,Furniture,True,Used and very good,750.00
+Dining Table,Furniture,True,Used and good,600.00
+Desk,Furniture,False,New,300.00
+Wardrobe,Furniture,True,Used and good,450.00
+Bookshelf,Furniture,True,Used and very good,800.00
+T-shirt,Clothing,True,Used and good,50.00
+Jeans,Clothing,True,Used and very good,60.00
+Dress,Clothing,True,Used and good,70.00
+Jacket,Clothing,False,Used and good,100.00
+Sneakers,Clothing,True,Used and very good,180.00
+Book,Media,False,Used and very good,40.00
+Video Game,Media,False,Used and good,70.00
+CD,Media,True,Used and okay,30.00
+Vinyl Record,Media,True,Used and very good,50.00
+DVD,Media,False,New,25.00
